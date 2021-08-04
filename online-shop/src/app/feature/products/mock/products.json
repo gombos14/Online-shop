@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Notebook Basic 15",
+    "category": "Laptops",
+    "price": 956
+  },
+  {
+    "id": 1,
+    "name": "Notebook Basic 17",
+    "category": "Laptops",
+    "price": 1249
+  },
+  {
+    "id": 2,
+    "name": "Notebook Basic 18",
+    "category": "Laptops",
+    "price": 1570
+  },
+  {
+    "id": 3,
+    "name": "Notebook Basic 19",
+    "category": "Laptops",
+    "price": 1650
+  },
+  {
+    "id": 4,
+    "name": "ITelO Vault",
+    "category": "Accessories",
+    "price": 299
+  },
+  {
+    "id": 5,
+    "name": "Notebook Professional 15",
+    "category": "Accessories",
+    "price": 1999
+  },
+  {
+    "id": 6,
+    "name": "Notebook Professional 17",
+    "category": "Laptops",
+    "price": 2299
+  },
+  {
+    "id": 7,
+    "name": "ITelO Vault Net",
+    "category": "Accessories",
+    "price": 459
+  },
+  {
+    "id": 8,
+    "name": "ITelO Vault SAT",
+    "category": "Accessories",
+    "price": 149
+  },
+  {
+    "id": 9,
+    "name": "Comfort Easy",
+    "category": "Accessories",
+    "price": 1679
+  },
+  {
+    "id": 10,
+    "name": "Comfort Senior",
+    "category": "Accessories",
+    "price": 512
+  },
+  {
+    "id": 11,
+    "name": "Ergo Screen E-I",
+    "category": "Flat Screen Monitors",
+    "price": 230
+  },
+  {
+    "id": 12,
+    "name": "Ergo Screen E-II",
+    "category": "Flat Screen Monitors",
+    "price": 285
+  },
+  {
+    "id": 13,
+    "name": "Ergo Screen E-III",
+    "category": "Flat Screen Monitors",
+    "price": 345
+  },
+  {
+    "id": 14,
+    "name": "Flat Basic",
+    "category": "Flat Screen Monitors",
+    "price": 399
+  },
+  {
+    "id": 15,
+    "name": "Flat Future",
+    "category": "Flat Screen Monitors",
+    "price": 430
+  }
+]

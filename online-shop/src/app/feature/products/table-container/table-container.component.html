@@ -1,0 +1,4 @@
+<button *ngIf="isAdmin()" mat-icon-button color="primary" (click)="openModalDialog()">
+  <mat-icon>add</mat-icon>
+</button>
+<app-table [data]="products" (delete)="deleteProduct($event)" (updatedProduct)="updateProduct($event)" [isAdmin]="isAdmin()"></app-table>
